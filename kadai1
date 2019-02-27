@@ -1,0 +1,7 @@
+<?php
+function twice($max){
+$result = $max * 2;
+return $result;
+}
+echo twice(25);
+?>
